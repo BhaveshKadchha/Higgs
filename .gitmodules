@@ -1,0 +1,3 @@
+[submodule "Higgs/vendor/spdlog"]
+	path = Higgs/vendor/spdlog
+	url = https://github.com/gabime/spdlog
