@@ -1,3 +1,0 @@
-﻿  LINK : ..\bin-int\Debug-windows-x86_64\Higgs\Higgs.dll not found or not built by the last incremental link; performing full link
-     Creating library ..\bin-int\Debug-windows-x86_64\Higgs\Higgs.lib and object ..\bin-int\Debug-windows-x86_64\Higgs\Higgs.exp
-  Higgs.vcxproj -> C:\dev\Higgs\bin-int\Debug-windows-x86_64\Higgs\Higgs.dll
